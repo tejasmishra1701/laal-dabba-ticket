@@ -21,6 +21,9 @@ const vt323 = VT323({
 export const metadata: Metadata = {
   title: "Laal Dabba Ticket",
   description: "Mumbai Bus Conductor Roast Engine",
+  icons: {
+    icon: "/Logo.png",
+  },
 };
 
 export default function RootLayout({
